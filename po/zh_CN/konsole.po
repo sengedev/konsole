@@ -1563,7 +1563,7 @@ msgstr "发出 SSH 命令时出错"
 #, kde-format
 msgid ""
 "Can't issue SSH command outside the shell application (eg, bash, zsh, sh)"
-msgstr "无法在外壳应用程序之外发出 SSH 命令 (例如 bash、zsh、sh 等)"
+msgstr "无法在Shell应用程序之外发出 SSH 命令 (例如 bash、zsh、sh 等)"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: plugins/SSHManager/sshmanagerpluginwidget.cpp:80
@@ -2474,7 +2474,7 @@ msgstr "杀死程序"
 #: session/SessionController.cpp:1887
 #, kde-format
 msgid "The shell prompt is displayed in session '%1'"
-msgstr "外壳程序的提示显示在会话“%1”"
+msgstr "Shell程序的提示显示在会话“%1”"
 
 #: session/SessionController.cpp:2080
 #, kde-format
